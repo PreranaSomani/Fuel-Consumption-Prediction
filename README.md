@@ -1,5 +1,4 @@
-# Fuel-Consumption-Prediction
-Streamlit-based ML app to predict car fuel consumption using Linear Regression.
+
 # 🚗 Fuel Consumption Prediction App
 
 A Streamlit web application that predicts car fuel consumption based on trip and environmental conditions using a Linear Regression model.
